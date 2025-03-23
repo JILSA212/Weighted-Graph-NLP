@@ -1,5 +1,6 @@
 import re
-import string
+# import string
+punctuation = ".!?;:"
 
 starting_words = {}
 graph = {}
@@ -56,7 +57,36 @@ def process_data(input, log_file):
                 
                 log_file.write("\tCurrent Count: " + str(starting_words[word]) + "\n")
                 start = False
-            if word in string.punctuation:
+            # if word in string.punctuation:
+            if word in punctuation:
+                log_file.write("\tPunctuation Found (Setting End): " + str(word) + "\n")
+
+                graph[word].set_end()
+                start = True
+            try:
+                graph[word].add_neighbor(words[words.index(word) + 1])
+                log_file.write("\tAdding Neighbor: " + str(words[words.index(word) + 1]) + "\n")
+                log_file.write("\t\tCurrent Neighbor: " + str(graph[word].neighbors) + "\n")
+            except:
+                log_file.write("\tNo Neighbor Found\n")
+                log_file.write("\tPunctuation Found (Setting End): " + str(word) + "\n")
+                graph[word].set_end()
+                start = True
+                pass
+        else:
+            if start:
+                log_file.write("\tSetting Start: " + str(word) + "\n")
+
+                graph[word].set_start()
+                try:
+                    starting_words[word] += 1
+                except:
+                    starting_words[word] = 1
+                
+                log_file.write("\tCurrent Count: " + str(starting_words[word]) + "\n")
+                start = False
+            # if word in string.punctuation:
+            if word in punctuation:
                 log_file.write("\tPunctuation Found (Setting End): " + str(word) + "\n")
 
                 graph[word].set_end()
