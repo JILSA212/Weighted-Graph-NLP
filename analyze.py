@@ -16,29 +16,31 @@ def create_frequence_table(graph):
 def find_most_appeared_start(df):
     return df[df['start'] == df['start'].max()]
 
-def most_appeared_statement(graph, df):
-    starting_word = find_most_appeared_start(df).index[0]
+def most_appeared_statement(graph, starting_words):
+    # starting_word = find_most_appeared_start(df).index[0]
+    starting_word = max(starting_words, key=starting_words.get)
     statement = [starting_word]
     while graph[statement[-1]].end == False:
         next_word = max(graph[statement[-1]].neighbors, key=graph[statement[-1]].neighbors.get)
         statement.append(next_word)
     return ' '.join(statement)
 
-def random_statement(graph, df):
-    non_zero_start_nodes = df[df['start'] != 0].index.tolist()
-    starting_word = random.choice(non_zero_start_nodes)
+def random_statement(graph, starting_words):
+    # non_zero_start_nodes = df[df['start'] != 0].index.tolist()
+    # starting_word = random.choice(non_zero_start_nodes)
+    starting_word = random.choice(list(starting_words.keys()))
     statement = [starting_word]
     while graph[statement[-1]].end == False:
         next_word = random.choice(list(graph[statement[-1]].neighbors.keys()))
         statement.append(next_word)
     return ' '.join(statement)
 
-def create_file(graph, df):
+def create_file(graph, starting_words):
     with open('output.txt', 'w') as file:
         file.write('Most appeared statement:\n')
-        file.write(most_appeared_statement(graph, df))
+        file.write(most_appeared_statement(graph, starting_words))
         file.write('\n\n5 Random statements:\n')
         for i in range(5):
-            file.write(random_statement(graph, df))
+            file.write(random_statement(graph, starting_words))
             file.write('\n')
         file.write('\n')

@@ -10,5 +10,6 @@ file.close()
 
 result = graph.process_data(input)
 visualize.visualize_graph(result)
-df = analyze.create_frequence_table(result)
-analyze.create_file(result, df)
+# df = analyze.create_frequence_table(result)
+starting_words = graph.make_starting_word_list(result)
+analyze.create_file(result, starting_words)

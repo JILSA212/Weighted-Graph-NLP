@@ -46,3 +46,10 @@ def process_data(input):
             except:
                 pass
     return graph
+
+def make_starting_word_list(graph):
+    starting_words = {}
+    for node in graph:
+        if graph[node].start != 0:
+            starting_words[node] = graph[node].start
+    return starting_words
