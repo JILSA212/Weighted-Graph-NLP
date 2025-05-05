@@ -1,0 +1,3303 @@
+Line 1:
+Words Count: 188
+Processing Word: Earth
+	Creating Node: Earth
+	Setting Start: Earth
+	Current Count: 1
+	Adding Neighbor: is
+		Current Neighbor: {'is': 1}
+Processing Word: is
+	Creating Node: is
+	Adding Neighbor: the
+		Current Neighbor: {'the': 1}
+Processing Word: the
+	Creating Node: the
+	Adding Neighbor: third
+		Current Neighbor: {'third': 1}
+Processing Word: third
+	Creating Node: third
+	Adding Neighbor: planet
+		Current Neighbor: {'planet': 1}
+Processing Word: planet
+	Creating Node: planet
+	Adding Neighbor: from
+		Current Neighbor: {'from': 1}
+Processing Word: from
+	Creating Node: from
+	Adding Neighbor: the
+		Current Neighbor: {'the': 1}
+Processing Word: the
+	Adding Neighbor: third
+		Current Neighbor: {'third': 2}
+Processing Word: Sun
+	Creating Node: Sun
+	Adding Neighbor: and
+		Current Neighbor: {'and': 1}
+Processing Word: and
+	Creating Node: and
+	Adding Neighbor: the
+		Current Neighbor: {'the': 1}
+Processing Word: the
+	Adding Neighbor: third
+		Current Neighbor: {'third': 3}
+Processing Word: only
+	Creating Node: only
+	Adding Neighbor: astronomical
+		Current Neighbor: {'astronomical': 1}
+Processing Word: astronomical
+	Creating Node: astronomical
+	Adding Neighbor: object
+		Current Neighbor: {'object': 1}
+Processing Word: object
+	Creating Node: object
+	Adding Neighbor: known
+		Current Neighbor: {'known': 1}
+Processing Word: known
+	Creating Node: known
+	Adding Neighbor: to
+		Current Neighbor: {'to': 1}
+Processing Word: to
+	Creating Node: to
+	Adding Neighbor: harbor
+		Current Neighbor: {'harbor': 1}
+Processing Word: harbor
+	Creating Node: harbor
+	Adding Neighbor: life
+		Current Neighbor: {'life': 1}
+Processing Word: life
+	Creating Node: life
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Creating Node: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: This
+		Current Neighbor: {'This': 1}
+Processing Word: This
+	Creating Node: This
+	Setting Start: This
+	Current Count: 1
+	Adding Neighbor: is
+		Current Neighbor: {'is': 1}
+Processing Word: is
+	Adding Neighbor: the
+		Current Neighbor: {'the': 2}
+Processing Word: enabled
+	Creating Node: enabled
+	Adding Neighbor: by
+		Current Neighbor: {'by': 1}
+Processing Word: by
+	Creating Node: by
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 1}
+Processing Word: Earth
+	Adding Neighbor: is
+		Current Neighbor: {'is': 2}
+Processing Word: being
+	Creating Node: being
+	Adding Neighbor: an
+		Current Neighbor: {'an': 1}
+Processing Word: an
+	Creating Node: an
+	Adding Neighbor: ocean
+		Current Neighbor: {'ocean': 1}
+Processing Word: ocean
+	Creating Node: ocean
+	Adding Neighbor: world
+		Current Neighbor: {'world': 1}
+Processing Word: world
+	Creating Node: world
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Creating Node: ,
+	Adding Neighbor: the
+		Current Neighbor: {'the': 1}
+Processing Word: the
+	Adding Neighbor: third
+		Current Neighbor: {'third': 4}
+Processing Word: only
+	Adding Neighbor: astronomical
+		Current Neighbor: {'astronomical': 2}
+Processing Word: one
+	Creating Node: one
+	Adding Neighbor: in
+		Current Neighbor: {'in': 1}
+Processing Word: in
+	Creating Node: in
+	Adding Neighbor: the
+		Current Neighbor: {'the': 1}
+Processing Word: the
+	Adding Neighbor: third
+		Current Neighbor: {'third': 5}
+Processing Word: Solar
+	Creating Node: Solar
+	Adding Neighbor: System
+		Current Neighbor: {'System': 1}
+Processing Word: System
+	Creating Node: System
+	Adding Neighbor: sustaining
+		Current Neighbor: {'sustaining': 1}
+Processing Word: sustaining
+	Creating Node: sustaining
+	Adding Neighbor: liquid
+		Current Neighbor: {'liquid': 1}
+Processing Word: liquid
+	Creating Node: liquid
+	Adding Neighbor: surface
+		Current Neighbor: {'surface': 1}
+Processing Word: surface
+	Creating Node: surface
+	Adding Neighbor: water
+		Current Neighbor: {'water': 1}
+Processing Word: water
+	Creating Node: water
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: This
+		Current Neighbor: {'This': 2}
+Processing Word: Almost
+	Creating Node: Almost
+	Setting Start: Almost
+	Current Count: 1
+	Adding Neighbor: all
+		Current Neighbor: {'all': 1}
+Processing Word: all
+	Creating Node: all
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Creating Node: of
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 1}
+Processing Word: Earth
+	Adding Neighbor: is
+		Current Neighbor: {'is': 3}
+Processing Word: '
+	Creating Node: '
+	Adding Neighbor: s
+		Current Neighbor: {'s': 1}
+Processing Word: s
+	Creating Node: s
+	Adding Neighbor: water
+		Current Neighbor: {'water': 1}
+Processing Word: water
+	Adding Neighbor: .
+		Current Neighbor: {'.': 2}
+Processing Word: is
+	Adding Neighbor: the
+		Current Neighbor: {'the': 3}
+Processing Word: contained
+	Creating Node: contained
+	Adding Neighbor: in
+		Current Neighbor: {'in': 1}
+Processing Word: in
+	Adding Neighbor: the
+		Current Neighbor: {'the': 2}
+Processing Word: its
+	Creating Node: its
+	Adding Neighbor: global
+		Current Neighbor: {'global': 1}
+Processing Word: global
+	Creating Node: global
+	Adding Neighbor: ocean
+		Current Neighbor: {'ocean': 1}
+Processing Word: ocean
+	Adding Neighbor: world
+		Current Neighbor: {'world': 2}
+Processing Word: ,
+	Adding Neighbor: the
+		Current Neighbor: {'the': 2}
+Processing Word: covering
+	Creating Node: covering
+	Adding Neighbor: 70
+		Current Neighbor: {'70': 1}
+Processing Word: 70
+	Creating Node: 70
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: This
+		Current Neighbor: {'This': 3}
+Processing Word: 8
+	Creating Node: 8
+	Setting Start: 8
+	Current Count: 1
+	Adding Neighbor: %
+		Current Neighbor: {'%': 1}
+Processing Word: %
+	Creating Node: %
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 2}
+Processing Word: Earth
+	Adding Neighbor: is
+		Current Neighbor: {'is': 4}
+Processing Word: '
+	Adding Neighbor: s
+		Current Neighbor: {'s': 2}
+Processing Word: s
+	Adding Neighbor: water
+		Current Neighbor: {'water': 2}
+Processing Word: crust
+	Creating Node: crust
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: This
+		Current Neighbor: {'This': 4}
+Processing Word: The
+	Creating Node: The
+	Setting Start: The
+	Current Count: 1
+	Adding Neighbor: remaining
+		Current Neighbor: {'remaining': 1}
+Processing Word: remaining
+	Creating Node: remaining
+	Adding Neighbor: 29
+		Current Neighbor: {'29': 1}
+Processing Word: 29
+	Creating Node: 29
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: This
+		Current Neighbor: {'This': 5}
+Processing Word: 2
+	Creating Node: 2
+	Setting Start: 2
+	Current Count: 1
+	Adding Neighbor: %
+		Current Neighbor: {'%': 1}
+Processing Word: %
+	Adding Neighbor: of
+		Current Neighbor: {'of': 2}
+Processing Word: of
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 3}
+Processing Word: Earth
+	Adding Neighbor: is
+		Current Neighbor: {'is': 5}
+Processing Word: '
+	Adding Neighbor: s
+		Current Neighbor: {'s': 3}
+Processing Word: s
+	Adding Neighbor: water
+		Current Neighbor: {'water': 3}
+Processing Word: crust
+	Adding Neighbor: .
+		Current Neighbor: {'.': 2}
+Processing Word: is
+	Adding Neighbor: the
+		Current Neighbor: {'the': 4}
+Processing Word: land
+	Creating Node: land
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: the
+		Current Neighbor: {'the': 3}
+Processing Word: most
+	Creating Node: most
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 4}
+Processing Word: which
+	Creating Node: which
+	Adding Neighbor: is
+		Current Neighbor: {'is': 1}
+Processing Word: is
+	Adding Neighbor: the
+		Current Neighbor: {'the': 5}
+Processing Word: located
+	Creating Node: located
+	Adding Neighbor: in
+		Current Neighbor: {'in': 1}
+Processing Word: in
+	Adding Neighbor: the
+		Current Neighbor: {'the': 3}
+Processing Word: the
+	Adding Neighbor: third
+		Current Neighbor: {'third': 6}
+Processing Word: form
+	Creating Node: form
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 5}
+Processing Word: continental
+	Creating Node: continental
+	Adding Neighbor: landmasses
+		Current Neighbor: {'landmasses': 1}
+Processing Word: landmasses
+	Creating Node: landmasses
+	Adding Neighbor: within
+		Current Neighbor: {'within': 1}
+Processing Word: within
+	Creating Node: within
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 1}
+Processing Word: Earth
+	Adding Neighbor: is
+		Current Neighbor: {'is': 6}
+Processing Word: '
+	Adding Neighbor: s
+		Current Neighbor: {'s': 4}
+Processing Word: s
+	Adding Neighbor: water
+		Current Neighbor: {'water': 4}
+Processing Word: land
+	Adding Neighbor: ,
+		Current Neighbor: {',': 2}
+Processing Word: hemisphere
+	Creating Node: hemisphere
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: This
+		Current Neighbor: {'This': 6}
+Processing Word: Most
+	Creating Node: Most
+	Setting Start: Most
+	Current Count: 1
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 6}
+Processing Word: Earth
+	Adding Neighbor: is
+		Current Neighbor: {'is': 7}
+Processing Word: '
+	Adding Neighbor: s
+		Current Neighbor: {'s': 5}
+Processing Word: s
+	Adding Neighbor: water
+		Current Neighbor: {'water': 5}
+Processing Word: land
+	Adding Neighbor: ,
+		Current Neighbor: {',': 3}
+Processing Word: is
+	Adding Neighbor: the
+		Current Neighbor: {'the': 6}
+Processing Word: at
+	Creating Node: at
+	Adding Neighbor: least
+		Current Neighbor: {'least': 1}
+Processing Word: least
+	Creating Node: least
+	Adding Neighbor: somewhat
+		Current Neighbor: {'somewhat': 1}
+Processing Word: somewhat
+	Creating Node: somewhat
+	Adding Neighbor: humid
+		Current Neighbor: {'humid': 1}
+Processing Word: humid
+	Creating Node: humid
+	Adding Neighbor: and
+		Current Neighbor: {'and': 1}
+Processing Word: and
+	Adding Neighbor: the
+		Current Neighbor: {'the': 2}
+Processing Word: covered
+	Creating Node: covered
+	Adding Neighbor: by
+		Current Neighbor: {'by': 1}
+Processing Word: by
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 2}
+Processing Word: vegetation
+	Creating Node: vegetation
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: the
+		Current Neighbor: {'the': 4}
+Processing Word: while
+	Creating Node: while
+	Adding Neighbor: large
+		Current Neighbor: {'large': 1}
+Processing Word: large
+	Creating Node: large
+	Adding Neighbor: sheets
+		Current Neighbor: {'sheets': 1}
+Processing Word: sheets
+	Creating Node: sheets
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 7}
+Processing Word: ice
+	Creating Node: ice
+	Adding Neighbor: at
+		Current Neighbor: {'at': 1}
+Processing Word: at
+	Adding Neighbor: least
+		Current Neighbor: {'least': 2}
+Processing Word: Earth
+	Adding Neighbor: is
+		Current Neighbor: {'is': 8}
+Processing Word: '
+	Adding Neighbor: s
+		Current Neighbor: {'s': 6}
+Processing Word: s
+	Adding Neighbor: water
+		Current Neighbor: {'water': 6}
+Processing Word: polar
+	Creating Node: polar
+	Adding Neighbor: deserts
+		Current Neighbor: {'deserts': 1}
+Processing Word: deserts
+	Creating Node: deserts
+	Adding Neighbor: retain
+		Current Neighbor: {'retain': 1}
+Processing Word: retain
+	Creating Node: retain
+	Adding Neighbor: more
+		Current Neighbor: {'more': 1}
+Processing Word: more
+	Creating Node: more
+	Adding Neighbor: water
+		Current Neighbor: {'water': 1}
+Processing Word: water
+	Adding Neighbor: .
+		Current Neighbor: {'.': 3}
+Processing Word: than
+	Creating Node: than
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 1}
+Processing Word: Earth
+	Adding Neighbor: is
+		Current Neighbor: {'is': 9}
+Processing Word: '
+	Adding Neighbor: s
+		Current Neighbor: {'s': 7}
+Processing Word: s
+	Adding Neighbor: water
+		Current Neighbor: {'water': 7}
+Processing Word: groundwater
+	Creating Node: groundwater
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: the
+		Current Neighbor: {'the': 5}
+Processing Word: lakes
+	Creating Node: lakes
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: the
+		Current Neighbor: {'the': 6}
+Processing Word: rivers
+	Creating Node: rivers
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: the
+		Current Neighbor: {'the': 7}
+Processing Word: and
+	Adding Neighbor: the
+		Current Neighbor: {'the': 3}
+Processing Word: atmospheric
+	Creating Node: atmospheric
+	Adding Neighbor: water
+		Current Neighbor: {'water': 1}
+Processing Word: water
+	Adding Neighbor: .
+		Current Neighbor: {'.': 4}
+Processing Word: combined
+	Creating Node: combined
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: This
+		Current Neighbor: {'This': 7}
+Processing Word: Earth
+	Setting Start: Earth
+	Current Count: 2
+	Adding Neighbor: is
+		Current Neighbor: {'is': 10}
+Processing Word: '
+	Adding Neighbor: s
+		Current Neighbor: {'s': 8}
+Processing Word: s
+	Adding Neighbor: water
+		Current Neighbor: {'water': 8}
+Processing Word: crust
+	Adding Neighbor: .
+		Current Neighbor: {'.': 3}
+Processing Word: consists
+	Creating Node: consists
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 8}
+Processing Word: slowly
+	Creating Node: slowly
+	Adding Neighbor: moving
+		Current Neighbor: {'moving': 1}
+Processing Word: moving
+	Creating Node: moving
+	Adding Neighbor: tectonic
+		Current Neighbor: {'tectonic': 1}
+Processing Word: tectonic
+	Creating Node: tectonic
+	Adding Neighbor: plates
+		Current Neighbor: {'plates': 1}
+Processing Word: plates
+	Creating Node: plates
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: the
+		Current Neighbor: {'the': 8}
+Processing Word: which
+	Adding Neighbor: is
+		Current Neighbor: {'is': 2}
+Processing Word: interact
+	Creating Node: interact
+	Adding Neighbor: to
+		Current Neighbor: {'to': 1}
+Processing Word: to
+	Adding Neighbor: harbor
+		Current Neighbor: {'harbor': 2}
+Processing Word: produce
+	Creating Node: produce
+	Adding Neighbor: mountain
+		Current Neighbor: {'mountain': 1}
+Processing Word: mountain
+	Creating Node: mountain
+	Adding Neighbor: ranges
+		Current Neighbor: {'ranges': 1}
+Processing Word: ranges
+	Creating Node: ranges
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: the
+		Current Neighbor: {'the': 9}
+Processing Word: volcanoes
+	Creating Node: volcanoes
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: the
+		Current Neighbor: {'the': 10}
+Processing Word: and
+	Adding Neighbor: the
+		Current Neighbor: {'the': 4}
+Processing Word: earthquakes
+	Creating Node: earthquakes
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: This
+		Current Neighbor: {'This': 8}
+Processing Word: Earth
+	Setting Start: Earth
+	Current Count: 3
+	Adding Neighbor: is
+		Current Neighbor: {'is': 11}
+Processing Word: has
+	Creating Node: has
+	Adding Neighbor: a
+		Current Neighbor: {'a': 1}
+Processing Word: a
+	Creating Node: a
+	Adding Neighbor: liquid
+		Current Neighbor: {'liquid': 1}
+Processing Word: liquid
+	Adding Neighbor: surface
+		Current Neighbor: {'surface': 2}
+Processing Word: outer
+	Creating Node: outer
+	Adding Neighbor: core
+		Current Neighbor: {'core': 1}
+Processing Word: core
+	Creating Node: core
+	Adding Neighbor: that
+		Current Neighbor: {'that': 1}
+Processing Word: that
+	Creating Node: that
+	Adding Neighbor: generates
+		Current Neighbor: {'generates': 1}
+Processing Word: generates
+	Creating Node: generates
+	Adding Neighbor: a
+		Current Neighbor: {'a': 1}
+Processing Word: a
+	Adding Neighbor: liquid
+		Current Neighbor: {'liquid': 2}
+Processing Word: magnetosphere
+	Creating Node: magnetosphere
+	Adding Neighbor: capable
+		Current Neighbor: {'capable': 1}
+Processing Word: capable
+	Creating Node: capable
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 9}
+Processing Word: deflecting
+	Creating Node: deflecting
+	Adding Neighbor: most
+		Current Neighbor: {'most': 1}
+Processing Word: most
+	Adding Neighbor: of
+		Current Neighbor: {'of': 2}
+Processing Word: of
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 10}
+Processing Word: the
+	Adding Neighbor: third
+		Current Neighbor: {'third': 7}
+Processing Word: destructive
+	Creating Node: destructive
+	Adding Neighbor: solar
+		Current Neighbor: {'solar': 1}
+Processing Word: solar
+	Creating Node: solar
+	Adding Neighbor: winds
+		Current Neighbor: {'winds': 1}
+Processing Word: winds
+	Creating Node: winds
+	Adding Neighbor: and
+		Current Neighbor: {'and': 1}
+Processing Word: and
+	Adding Neighbor: the
+		Current Neighbor: {'the': 5}
+Processing Word: cosmic
+	Creating Node: cosmic
+	Adding Neighbor: radiation
+		Current Neighbor: {'radiation': 1}
+Processing Word: radiation
+	Creating Node: radiation
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: This
+		Current Neighbor: {'This': 9}
+Line 2:
+Words Count: 195
+Processing Word: Earth
+	Setting Start: Earth
+	Current Count: 4
+	Adding Neighbor: has
+		Current Neighbor: {'is': 11, 'has': 1}
+Processing Word: has
+	Adding Neighbor: a
+		Current Neighbor: {'a': 2}
+Processing Word: a
+	Adding Neighbor: dynamic
+		Current Neighbor: {'liquid': 2, 'dynamic': 1}
+Processing Word: dynamic
+	Creating Node: dynamic
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'atmosphere': 1}
+Processing Word: atmosphere
+	Creating Node: atmosphere
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: which
+		Current Neighbor: {'the': 10, 'which': 1}
+Processing Word: which
+	Adding Neighbor: sustains
+		Current Neighbor: {'is': 2, 'sustains': 1}
+Processing Word: sustains
+	Creating Node: sustains
+	Adding Neighbor: Earth
+		Current Neighbor: {'Earth': 1}
+Processing Word: Earth
+	Adding Neighbor: has
+		Current Neighbor: {'is': 11, 'has': 2}
+Processing Word: '
+	Adding Neighbor: s
+		Current Neighbor: {'s': 9}
+Processing Word: s
+	Adding Neighbor: surface
+		Current Neighbor: {'water': 8, 'surface': 1}
+Processing Word: surface
+	Adding Neighbor: conditions
+		Current Neighbor: {'water': 1, 'conditions': 1}
+Processing Word: conditions
+	Creating Node: conditions
+	Adding Neighbor: and
+		Current Neighbor: {'and': 1}
+Processing Word: and
+	Adding Neighbor: protects
+		Current Neighbor: {'the': 5, 'protects': 1}
+Processing Word: protects
+	Creating Node: protects
+	Adding Neighbor: it
+		Current Neighbor: {'it': 1}
+Processing Word: it
+	Creating Node: it
+	Adding Neighbor: from
+		Current Neighbor: {'from': 1}
+Processing Word: from
+	Adding Neighbor: most
+		Current Neighbor: {'the': 1, 'most': 1}
+Processing Word: most
+	Adding Neighbor: meteoroids
+		Current Neighbor: {'of': 2, 'meteoroids': 1}
+Processing Word: meteoroids
+	Creating Node: meteoroids
+	Adding Neighbor: and
+		Current Neighbor: {'and': 1}
+Processing Word: and
+	Adding Neighbor: protects
+		Current Neighbor: {'the': 5, 'protects': 2}
+Processing Word: UV
+	Creating Node: UV
+	Adding Neighbor: -
+		Current Neighbor: {'-': 1}
+Processing Word: -
+	Creating Node: -
+	Adding Neighbor: light
+		Current Neighbor: {'light': 1}
+Processing Word: light
+	Creating Node: light
+	Adding Neighbor: at
+		Current Neighbor: {'at': 1}
+Processing Word: at
+	Adding Neighbor: entry
+		Current Neighbor: {'least': 2, 'entry': 1}
+Processing Word: entry
+	Creating Node: entry
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: It
+		Current Neighbor: {'This': 9, 'It': 1}
+Processing Word: It
+	Creating Node: It
+	Setting Start: It
+	Current Count: 1
+	Adding Neighbor: has
+		Current Neighbor: {'has': 1}
+Processing Word: has
+	Adding Neighbor: a
+		Current Neighbor: {'a': 3}
+Processing Word: a
+	Adding Neighbor: dynamic
+		Current Neighbor: {'liquid': 2, 'dynamic': 2}
+Processing Word: composition
+	Creating Node: composition
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: primarily
+		Current Neighbor: {'Earth': 10, 'primarily': 1}
+Processing Word: primarily
+	Creating Node: primarily
+	Adding Neighbor: nitrogen
+		Current Neighbor: {'nitrogen': 1}
+Processing Word: nitrogen
+	Creating Node: nitrogen
+	Adding Neighbor: and
+		Current Neighbor: {'and': 1}
+Processing Word: and
+	Adding Neighbor: protects
+		Current Neighbor: {'the': 5, 'protects': 3}
+Processing Word: oxygen
+	Creating Node: oxygen
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: It
+		Current Neighbor: {'This': 9, 'It': 2}
+Processing Word: Water
+	Creating Node: Water
+	Setting Start: Water
+	Current Count: 1
+	Adding Neighbor: vapor
+		Current Neighbor: {'vapor': 1}
+Processing Word: vapor
+	Creating Node: vapor
+	Adding Neighbor: is
+		Current Neighbor: {'is': 1}
+Processing Word: is
+	Adding Neighbor: widely
+		Current Neighbor: {'the': 6, 'widely': 1}
+Processing Word: widely
+	Creating Node: widely
+	Adding Neighbor: present
+		Current Neighbor: {'present': 1}
+Processing Word: present
+	Creating Node: present
+	Adding Neighbor: in
+		Current Neighbor: {'in': 1}
+Processing Word: in
+	Adding Neighbor: the
+		Current Neighbor: {'the': 4}
+Processing Word: the
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'third': 7, 'atmosphere': 1}
+Processing Word: atmosphere
+	Adding Neighbor: ,
+		Current Neighbor: {',': 2}
+Processing Word: ,
+	Adding Neighbor: which
+		Current Neighbor: {'the': 10, 'which': 2}
+Processing Word: forming
+	Creating Node: forming
+	Adding Neighbor: clouds
+		Current Neighbor: {'clouds': 1}
+Processing Word: clouds
+	Creating Node: clouds
+	Adding Neighbor: that
+		Current Neighbor: {'that': 1}
+Processing Word: that
+	Adding Neighbor: cover
+		Current Neighbor: {'generates': 1, 'cover': 1}
+Processing Word: cover
+	Creating Node: cover
+	Adding Neighbor: most
+		Current Neighbor: {'most': 1}
+Processing Word: most
+	Adding Neighbor: meteoroids
+		Current Neighbor: {'of': 2, 'meteoroids': 2}
+Processing Word: of
+	Adding Neighbor: primarily
+		Current Neighbor: {'Earth': 10, 'primarily': 2}
+Processing Word: the
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'third': 7, 'atmosphere': 2}
+Processing Word: planet
+	Adding Neighbor: .
+		Current Neighbor: {'from': 1, '.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: It
+		Current Neighbor: {'This': 9, 'It': 3}
+Processing Word: The
+	Setting Start: The
+	Current Count: 2
+	Adding Neighbor: water
+		Current Neighbor: {'remaining': 1, 'water': 1}
+Processing Word: water
+	Adding Neighbor: vapor
+		Current Neighbor: {'.': 4, 'vapor': 1}
+Processing Word: vapor
+	Adding Neighbor: is
+		Current Neighbor: {'is': 2}
+Processing Word: acts
+	Creating Node: acts
+	Adding Neighbor: as
+		Current Neighbor: {'as': 1}
+Processing Word: as
+	Creating Node: as
+	Adding Neighbor: a
+		Current Neighbor: {'a': 1}
+Processing Word: a
+	Adding Neighbor: dynamic
+		Current Neighbor: {'liquid': 2, 'dynamic': 3}
+Processing Word: greenhouse
+	Creating Node: greenhouse
+	Adding Neighbor: gas
+		Current Neighbor: {'gas': 1}
+Processing Word: gas
+	Creating Node: gas
+	Adding Neighbor: and
+		Current Neighbor: {'and': 1}
+Processing Word: and
+	Adding Neighbor: protects
+		Current Neighbor: {'the': 5, 'protects': 4}
+Processing Word: ,
+	Adding Neighbor: which
+		Current Neighbor: {'the': 10, 'which': 3}
+Processing Word: together
+	Creating Node: together
+	Adding Neighbor: with
+		Current Neighbor: {'with': 1}
+Processing Word: with
+	Creating Node: with
+	Adding Neighbor: other
+		Current Neighbor: {'other': 1}
+Processing Word: other
+	Creating Node: other
+	Adding Neighbor: greenhouse
+		Current Neighbor: {'greenhouse': 1}
+Processing Word: greenhouse
+	Adding Neighbor: gas
+		Current Neighbor: {'gas': 2}
+Processing Word: gases
+	Creating Node: gases
+	Adding Neighbor: in
+		Current Neighbor: {'in': 1}
+Processing Word: in
+	Adding Neighbor: the
+		Current Neighbor: {'the': 5}
+Processing Word: the
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'third': 7, 'atmosphere': 3}
+Processing Word: atmosphere
+	Adding Neighbor: ,
+		Current Neighbor: {',': 3}
+Processing Word: ,
+	Adding Neighbor: which
+		Current Neighbor: {'the': 10, 'which': 4}
+Processing Word: particularly
+	Creating Node: particularly
+	Adding Neighbor: carbon
+		Current Neighbor: {'carbon': 1}
+Processing Word: carbon
+	Creating Node: carbon
+	Adding Neighbor: dioxide
+		Current Neighbor: {'dioxide': 1}
+Processing Word: dioxide
+	Creating Node: dioxide
+	Adding Neighbor: (
+		Current Neighbor: {'(': 1}
+Processing Word: (
+	Creating Node: (
+	Adding Neighbor: CO2
+		Current Neighbor: {'CO2': 1}
+Processing Word: CO2
+	Creating Node: CO2
+	Adding Neighbor: )
+		Current Neighbor: {')': 1}
+Processing Word: )
+	Creating Node: )
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: which
+		Current Neighbor: {'the': 10, 'which': 5}
+Processing Word: creates
+	Creating Node: creates
+	Adding Neighbor: the
+		Current Neighbor: {'the': 1}
+Processing Word: the
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'third': 7, 'atmosphere': 4}
+Processing Word: conditions
+	Adding Neighbor: and
+		Current Neighbor: {'and': 2}
+Processing Word: for
+	Creating Node: for
+	Adding Neighbor: both
+		Current Neighbor: {'both': 1}
+Processing Word: both
+	Creating Node: both
+	Adding Neighbor: liquid
+		Current Neighbor: {'liquid': 1}
+Processing Word: liquid
+	Adding Neighbor: surface
+		Current Neighbor: {'surface': 3}
+Processing Word: surface
+	Adding Neighbor: conditions
+		Current Neighbor: {'water': 1, 'conditions': 2}
+Processing Word: water
+	Adding Neighbor: vapor
+		Current Neighbor: {'.': 4, 'vapor': 2}
+Processing Word: and
+	Adding Neighbor: protects
+		Current Neighbor: {'the': 5, 'protects': 5}
+Processing Word: water
+	Adding Neighbor: vapor
+		Current Neighbor: {'.': 4, 'vapor': 3}
+Processing Word: vapor
+	Adding Neighbor: is
+		Current Neighbor: {'is': 3}
+Processing Word: to
+	Adding Neighbor: persist
+		Current Neighbor: {'harbor': 2, 'persist': 1}
+Processing Word: persist
+	Creating Node: persist
+	Adding Neighbor: via
+		Current Neighbor: {'via': 1}
+Processing Word: via
+	Creating Node: via
+	Adding Neighbor: the
+		Current Neighbor: {'the': 1}
+Processing Word: the
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'third': 7, 'atmosphere': 5}
+Processing Word: capturing
+	Creating Node: capturing
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: primarily
+		Current Neighbor: {'Earth': 10, 'primarily': 3}
+Processing Word: energy
+	Creating Node: energy
+	Adding Neighbor: from
+		Current Neighbor: {'from': 1}
+Processing Word: from
+	Adding Neighbor: most
+		Current Neighbor: {'the': 1, 'most': 2}
+Processing Word: the
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'third': 7, 'atmosphere': 6}
+Processing Word: Sun
+	Adding Neighbor: '
+		Current Neighbor: {'and': 1, "'": 1}
+Processing Word: '
+	Adding Neighbor: s
+		Current Neighbor: {'s': 10}
+Processing Word: s
+	Adding Neighbor: surface
+		Current Neighbor: {'water': 8, 'surface': 2}
+Processing Word: light
+	Adding Neighbor: at
+		Current Neighbor: {'at': 2}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: It
+		Current Neighbor: {'This': 9, 'It': 4}
+Processing Word: This
+	Setting Start: This
+	Current Count: 2
+	Adding Neighbor: process
+		Current Neighbor: {'is': 1, 'process': 1}
+Processing Word: process
+	Creating Node: process
+	Adding Neighbor: maintains
+		Current Neighbor: {'maintains': 1}
+Processing Word: maintains
+	Creating Node: maintains
+	Adding Neighbor: the
+		Current Neighbor: {'the': 1}
+Processing Word: the
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'third': 7, 'atmosphere': 7}
+Processing Word: current
+	Creating Node: current
+	Adding Neighbor: average
+		Current Neighbor: {'average': 1}
+Processing Word: average
+	Creating Node: average
+	Adding Neighbor: surface
+		Current Neighbor: {'surface': 1}
+Processing Word: surface
+	Adding Neighbor: conditions
+		Current Neighbor: {'water': 1, 'conditions': 3}
+Processing Word: temperature
+	Creating Node: temperature
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: primarily
+		Current Neighbor: {'Earth': 10, 'primarily': 4}
+Processing Word: 14
+	Creating Node: 14
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: It
+		Current Neighbor: {'This': 9, 'It': 5}
+Processing Word: 76
+	Creating Node: 76
+	Setting Start: 76
+	Current Count: 1
+	Adding Neighbor: °
+		Current Neighbor: {'°': 1}
+Processing Word: °
+	Creating Node: °
+	Adding Neighbor: C
+		Current Neighbor: {'C': 1}
+Processing Word: C
+	Creating Node: C
+	Adding Neighbor: (
+		Current Neighbor: {'(': 1}
+Processing Word: (
+	Adding Neighbor: CO2
+		Current Neighbor: {'CO2': 2}
+Processing Word: 58
+	Creating Node: 58
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: It
+		Current Neighbor: {'This': 9, 'It': 6}
+Processing Word: 57
+	Creating Node: 57
+	Setting Start: 57
+	Current Count: 1
+	Adding Neighbor: °
+		Current Neighbor: {'°': 1}
+Processing Word: °
+	Adding Neighbor: C
+		Current Neighbor: {'C': 2}
+Processing Word: F
+	Creating Node: F
+	Adding Neighbor: )
+		Current Neighbor: {')': 1}
+Processing Word: )
+	Adding Neighbor: ,
+		Current Neighbor: {',': 2}
+Processing Word: ,
+	Adding Neighbor: which
+		Current Neighbor: {'the': 10, 'which': 6}
+Processing Word: at
+	Adding Neighbor: entry
+		Current Neighbor: {'least': 2, 'entry': 2}
+Processing Word: which
+	Adding Neighbor: sustains
+		Current Neighbor: {'is': 2, 'sustains': 2}
+Processing Word: water
+	Adding Neighbor: vapor
+		Current Neighbor: {'.': 4, 'vapor': 4}
+Processing Word: is
+	Adding Neighbor: widely
+		Current Neighbor: {'the': 6, 'widely': 2}
+Processing Word: liquid
+	Adding Neighbor: surface
+		Current Neighbor: {'surface': 4}
+Processing Word: under
+	Creating Node: under
+	Adding Neighbor: normal
+		Current Neighbor: {'normal': 1}
+Processing Word: normal
+	Creating Node: normal
+	Adding Neighbor: atmospheric
+		Current Neighbor: {'atmospheric': 1}
+Processing Word: atmospheric
+	Adding Neighbor: pressure
+		Current Neighbor: {'water': 1, 'pressure': 1}
+Processing Word: pressure
+	Creating Node: pressure
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: It
+		Current Neighbor: {'This': 9, 'It': 7}
+Processing Word: Differences
+	Creating Node: Differences
+	Setting Start: Differences
+	Current Count: 1
+	Adding Neighbor: in
+		Current Neighbor: {'in': 1}
+Processing Word: in
+	Adding Neighbor: the
+		Current Neighbor: {'the': 6}
+Processing Word: the
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'third': 7, 'atmosphere': 8}
+Processing Word: amount
+	Creating Node: amount
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: primarily
+		Current Neighbor: {'Earth': 10, 'primarily': 5}
+Processing Word: captured
+	Creating Node: captured
+	Adding Neighbor: energy
+		Current Neighbor: {'energy': 1}
+Processing Word: energy
+	Adding Neighbor: from
+		Current Neighbor: {'from': 2}
+Processing Word: between
+	Creating Node: between
+	Adding Neighbor: geographic
+		Current Neighbor: {'geographic': 1}
+Processing Word: geographic
+	Creating Node: geographic
+	Adding Neighbor: regions
+		Current Neighbor: {'regions': 1}
+Processing Word: regions
+	Creating Node: regions
+	Adding Neighbor: (
+		Current Neighbor: {'(': 1}
+Processing Word: (
+	Adding Neighbor: CO2
+		Current Neighbor: {'CO2': 3}
+Processing Word: as
+	Adding Neighbor: a
+		Current Neighbor: {'a': 2}
+Processing Word: with
+	Adding Neighbor: other
+		Current Neighbor: {'other': 2}
+Processing Word: the
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'third': 7, 'atmosphere': 9}
+Processing Word: equatorial
+	Creating Node: equatorial
+	Adding Neighbor: region
+		Current Neighbor: {'region': 1}
+Processing Word: region
+	Creating Node: region
+	Adding Neighbor: receiving
+		Current Neighbor: {'receiving': 1}
+Processing Word: receiving
+	Creating Node: receiving
+	Adding Neighbor: more
+		Current Neighbor: {'more': 1}
+Processing Word: more
+	Adding Neighbor: sunlight
+		Current Neighbor: {'water': 1, 'sunlight': 1}
+Processing Word: sunlight
+	Creating Node: sunlight
+	Adding Neighbor: than
+		Current Neighbor: {'than': 1}
+Processing Word: than
+	Adding Neighbor: the
+		Current Neighbor: {'Earth': 1, 'the': 1}
+Processing Word: the
+	Adding Neighbor: atmosphere
+		Current Neighbor: {'third': 7, 'atmosphere': 10}
+Processing Word: polar
+	Adding Neighbor: regions
+		Current Neighbor: {'deserts': 1, 'regions': 1}
+Processing Word: regions
+	Adding Neighbor: (
+		Current Neighbor: {'(': 2}
+Processing Word: )
+	Adding Neighbor: ,
+		Current Neighbor: {',': 3}
+Processing Word: drive
+	Creating Node: drive
+	Adding Neighbor: atmospheric
+		Current Neighbor: {'atmospheric': 1}
+Processing Word: atmospheric
+	Adding Neighbor: pressure
+		Current Neighbor: {'water': 1, 'pressure': 2}
+Processing Word: and
+	Adding Neighbor: protects
+		Current Neighbor: {'the': 5, 'protects': 6}
+Processing Word: ocean
+	Adding Neighbor: currents
+		Current Neighbor: {'world': 2, 'currents': 1}
+Processing Word: currents
+	Creating Node: currents
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: which
+		Current Neighbor: {'the': 10, 'which': 7}
+Processing Word: producing
+	Creating Node: producing
+	Adding Neighbor: a
+		Current Neighbor: {'a': 1}
+Processing Word: a
+	Adding Neighbor: dynamic
+		Current Neighbor: {'liquid': 2, 'dynamic': 4}
+Processing Word: global
+	Adding Neighbor: climate
+		Current Neighbor: {'ocean': 1, 'climate': 1}
+Processing Word: climate
+	Creating Node: climate
+	Adding Neighbor: system
+		Current Neighbor: {'system': 1}
+Processing Word: system
+	Creating Node: system
+	Adding Neighbor: with
+		Current Neighbor: {'with': 1}
+Processing Word: with
+	Adding Neighbor: other
+		Current Neighbor: {'other': 3}
+Processing Word: different
+	Creating Node: different
+	Adding Neighbor: climate
+		Current Neighbor: {'climate': 1}
+Processing Word: climate
+	Adding Neighbor: system
+		Current Neighbor: {'system': 2}
+Processing Word: regions
+	Adding Neighbor: (
+		Current Neighbor: {'(': 3}
+Processing Word: ,
+	Adding Neighbor: which
+		Current Neighbor: {'the': 10, 'which': 8}
+Processing Word: and
+	Adding Neighbor: protects
+		Current Neighbor: {'the': 5, 'protects': 7}
+Processing Word: a
+	Adding Neighbor: dynamic
+		Current Neighbor: {'liquid': 2, 'dynamic': 5}
+Processing Word: range
+	Creating Node: range
+	Adding Neighbor: of
+		Current Neighbor: {'of': 1}
+Processing Word: of
+	Adding Neighbor: primarily
+		Current Neighbor: {'Earth': 10, 'primarily': 6}
+Processing Word: weather
+	Creating Node: weather
+	Adding Neighbor: phenomena
+		Current Neighbor: {'phenomena': 1}
+Processing Word: phenomena
+	Creating Node: phenomena
+	Adding Neighbor: such
+		Current Neighbor: {'such': 1}
+Processing Word: such
+	Creating Node: such
+	Adding Neighbor: as
+		Current Neighbor: {'as': 1}
+Processing Word: as
+	Adding Neighbor: a
+		Current Neighbor: {'a': 3}
+Processing Word: precipitation
+	Creating Node: precipitation
+	Adding Neighbor: ,
+		Current Neighbor: {',': 1}
+Processing Word: ,
+	Adding Neighbor: which
+		Current Neighbor: {'the': 10, 'which': 9}
+Processing Word: allowing
+	Creating Node: allowing
+	Adding Neighbor: components
+		Current Neighbor: {'components': 1}
+Processing Word: components
+	Creating Node: components
+	Adding Neighbor: such
+		Current Neighbor: {'such': 1}
+Processing Word: such
+	Adding Neighbor: as
+		Current Neighbor: {'as': 2}
+Processing Word: as
+	Adding Neighbor: a
+		Current Neighbor: {'a': 4}
+Processing Word: nitrogen
+	Adding Neighbor: and
+		Current Neighbor: {'and': 2}
+Processing Word: to
+	Adding Neighbor: persist
+		Current Neighbor: {'harbor': 2, 'persist': 2}
+Processing Word: cycle
+	Creating Node: cycle
+	Adding Neighbor: .
+		Current Neighbor: {'.': 1}
+Processing Word: .
+	Punctuation Found (Setting End): .
+	Adding Neighbor: It
+		Current Neighbor: {'This': 9, 'It': 8}
+
+
+Dumping Graph:
+Node: Earth
+	Neighbors: {'is': 11, 'has': 2}
+	Start: 4
+	End: False
+Node: is
+	Neighbors: {'the': 6, 'widely': 2}
+	Start: 0
+	End: False
+Node: the
+	Neighbors: {'third': 7, 'atmosphere': 10}
+	Start: 0
+	End: False
+Node: third
+	Neighbors: {'planet': 1}
+	Start: 0
+	End: False
+Node: planet
+	Neighbors: {'from': 1, '.': 1}
+	Start: 0
+	End: False
+Node: from
+	Neighbors: {'the': 1, 'most': 2}
+	Start: 0
+	End: False
+Node: Sun
+	Neighbors: {'and': 1, "'": 1}
+	Start: 0
+	End: False
+Node: and
+	Neighbors: {'the': 5, 'protects': 7}
+	Start: 0
+	End: False
+Node: only
+	Neighbors: {'astronomical': 2}
+	Start: 0
+	End: False
+Node: astronomical
+	Neighbors: {'object': 1}
+	Start: 0
+	End: False
+Node: object
+	Neighbors: {'known': 1}
+	Start: 0
+	End: False
+Node: known
+	Neighbors: {'to': 1}
+	Start: 0
+	End: False
+Node: to
+	Neighbors: {'harbor': 2, 'persist': 2}
+	Start: 0
+	End: False
+Node: harbor
+	Neighbors: {'life': 1}
+	Start: 0
+	End: False
+Node: life
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: .
+	Neighbors: {'This': 9, 'It': 8}
+	Start: 0
+	End: True
+Node: This
+	Neighbors: {'is': 1, 'process': 1}
+	Start: 2
+	End: False
+Node: enabled
+	Neighbors: {'by': 1}
+	Start: 0
+	End: False
+Node: by
+	Neighbors: {'Earth': 2}
+	Start: 0
+	End: False
+Node: being
+	Neighbors: {'an': 1}
+	Start: 0
+	End: False
+Node: an
+	Neighbors: {'ocean': 1}
+	Start: 0
+	End: False
+Node: ocean
+	Neighbors: {'world': 2, 'currents': 1}
+	Start: 0
+	End: False
+Node: world
+	Neighbors: {',': 1}
+	Start: 0
+	End: False
+Node: ,
+	Neighbors: {'the': 10, 'which': 9}
+	Start: 0
+	End: False
+Node: one
+	Neighbors: {'in': 1}
+	Start: 0
+	End: False
+Node: in
+	Neighbors: {'the': 6}
+	Start: 0
+	End: False
+Node: Solar
+	Neighbors: {'System': 1}
+	Start: 0
+	End: False
+Node: System
+	Neighbors: {'sustaining': 1}
+	Start: 0
+	End: False
+Node: sustaining
+	Neighbors: {'liquid': 1}
+	Start: 0
+	End: False
+Node: liquid
+	Neighbors: {'surface': 4}
+	Start: 0
+	End: False
+Node: surface
+	Neighbors: {'water': 1, 'conditions': 3}
+	Start: 0
+	End: False
+Node: water
+	Neighbors: {'.': 4, 'vapor': 4}
+	Start: 0
+	End: False
+Node: Almost
+	Neighbors: {'all': 1}
+	Start: 1
+	End: False
+Node: all
+	Neighbors: {'of': 1}
+	Start: 0
+	End: False
+Node: of
+	Neighbors: {'Earth': 10, 'primarily': 6}
+	Start: 0
+	End: False
+Node: '
+	Neighbors: {'s': 10}
+	Start: 0
+	End: False
+Node: s
+	Neighbors: {'water': 8, 'surface': 2}
+	Start: 0
+	End: False
+Node: contained
+	Neighbors: {'in': 1}
+	Start: 0
+	End: False
+Node: its
+	Neighbors: {'global': 1}
+	Start: 0
+	End: False
+Node: global
+	Neighbors: {'ocean': 1, 'climate': 1}
+	Start: 0
+	End: False
+Node: covering
+	Neighbors: {'70': 1}
+	Start: 0
+	End: False
+Node: 70
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: 8
+	Neighbors: {'%': 1}
+	Start: 1
+	End: False
+Node: %
+	Neighbors: {'of': 2}
+	Start: 0
+	End: False
+Node: crust
+	Neighbors: {'.': 3}
+	Start: 0
+	End: False
+Node: The
+	Neighbors: {'remaining': 1, 'water': 1}
+	Start: 2
+	End: False
+Node: remaining
+	Neighbors: {'29': 1}
+	Start: 0
+	End: False
+Node: 29
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: 2
+	Neighbors: {'%': 1}
+	Start: 1
+	End: False
+Node: land
+	Neighbors: {',': 3}
+	Start: 0
+	End: False
+Node: most
+	Neighbors: {'of': 2, 'meteoroids': 2}
+	Start: 0
+	End: False
+Node: which
+	Neighbors: {'is': 2, 'sustains': 2}
+	Start: 0
+	End: False
+Node: located
+	Neighbors: {'in': 1}
+	Start: 0
+	End: False
+Node: form
+	Neighbors: {'of': 1}
+	Start: 0
+	End: False
+Node: continental
+	Neighbors: {'landmasses': 1}
+	Start: 0
+	End: False
+Node: landmasses
+	Neighbors: {'within': 1}
+	Start: 0
+	End: False
+Node: within
+	Neighbors: {'Earth': 1}
+	Start: 0
+	End: False
+Node: hemisphere
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: Most
+	Neighbors: {'of': 1}
+	Start: 1
+	End: False
+Node: at
+	Neighbors: {'least': 2, 'entry': 2}
+	Start: 0
+	End: False
+Node: least
+	Neighbors: {'somewhat': 1}
+	Start: 0
+	End: False
+Node: somewhat
+	Neighbors: {'humid': 1}
+	Start: 0
+	End: False
+Node: humid
+	Neighbors: {'and': 1}
+	Start: 0
+	End: False
+Node: covered
+	Neighbors: {'by': 1}
+	Start: 0
+	End: False
+Node: vegetation
+	Neighbors: {',': 1}
+	Start: 0
+	End: False
+Node: while
+	Neighbors: {'large': 1}
+	Start: 0
+	End: False
+Node: large
+	Neighbors: {'sheets': 1}
+	Start: 0
+	End: False
+Node: sheets
+	Neighbors: {'of': 1}
+	Start: 0
+	End: False
+Node: ice
+	Neighbors: {'at': 1}
+	Start: 0
+	End: False
+Node: polar
+	Neighbors: {'deserts': 1, 'regions': 1}
+	Start: 0
+	End: False
+Node: deserts
+	Neighbors: {'retain': 1}
+	Start: 0
+	End: False
+Node: retain
+	Neighbors: {'more': 1}
+	Start: 0
+	End: False
+Node: more
+	Neighbors: {'water': 1, 'sunlight': 1}
+	Start: 0
+	End: False
+Node: than
+	Neighbors: {'Earth': 1, 'the': 1}
+	Start: 0
+	End: False
+Node: groundwater
+	Neighbors: {',': 1}
+	Start: 0
+	End: False
+Node: lakes
+	Neighbors: {',': 1}
+	Start: 0
+	End: False
+Node: rivers
+	Neighbors: {',': 1}
+	Start: 0
+	End: False
+Node: atmospheric
+	Neighbors: {'water': 1, 'pressure': 2}
+	Start: 0
+	End: False
+Node: combined
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: consists
+	Neighbors: {'of': 1}
+	Start: 0
+	End: False
+Node: slowly
+	Neighbors: {'moving': 1}
+	Start: 0
+	End: False
+Node: moving
+	Neighbors: {'tectonic': 1}
+	Start: 0
+	End: False
+Node: tectonic
+	Neighbors: {'plates': 1}
+	Start: 0
+	End: False
+Node: plates
+	Neighbors: {',': 1}
+	Start: 0
+	End: False
+Node: interact
+	Neighbors: {'to': 1}
+	Start: 0
+	End: False
+Node: produce
+	Neighbors: {'mountain': 1}
+	Start: 0
+	End: False
+Node: mountain
+	Neighbors: {'ranges': 1}
+	Start: 0
+	End: False
+Node: ranges
+	Neighbors: {',': 1}
+	Start: 0
+	End: False
+Node: volcanoes
+	Neighbors: {',': 1}
+	Start: 0
+	End: False
+Node: earthquakes
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: has
+	Neighbors: {'a': 3}
+	Start: 0
+	End: False
+Node: a
+	Neighbors: {'liquid': 2, 'dynamic': 5}
+	Start: 0
+	End: False
+Node: outer
+	Neighbors: {'core': 1}
+	Start: 0
+	End: False
+Node: core
+	Neighbors: {'that': 1}
+	Start: 0
+	End: False
+Node: that
+	Neighbors: {'generates': 1, 'cover': 1}
+	Start: 0
+	End: False
+Node: generates
+	Neighbors: {'a': 1}
+	Start: 0
+	End: False
+Node: magnetosphere
+	Neighbors: {'capable': 1}
+	Start: 0
+	End: False
+Node: capable
+	Neighbors: {'of': 1}
+	Start: 0
+	End: False
+Node: deflecting
+	Neighbors: {'most': 1}
+	Start: 0
+	End: False
+Node: destructive
+	Neighbors: {'solar': 1}
+	Start: 0
+	End: False
+Node: solar
+	Neighbors: {'winds': 1}
+	Start: 0
+	End: False
+Node: winds
+	Neighbors: {'and': 1}
+	Start: 0
+	End: False
+Node: cosmic
+	Neighbors: {'radiation': 1}
+	Start: 0
+	End: False
+Node: radiation
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: dynamic
+	Neighbors: {'atmosphere': 1}
+	Start: 0
+	End: False
+Node: atmosphere
+	Neighbors: {',': 3}
+	Start: 0
+	End: False
+Node: sustains
+	Neighbors: {'Earth': 1}
+	Start: 0
+	End: False
+Node: conditions
+	Neighbors: {'and': 2}
+	Start: 0
+	End: False
+Node: protects
+	Neighbors: {'it': 1}
+	Start: 0
+	End: False
+Node: it
+	Neighbors: {'from': 1}
+	Start: 0
+	End: False
+Node: meteoroids
+	Neighbors: {'and': 1}
+	Start: 0
+	End: False
+Node: UV
+	Neighbors: {'-': 1}
+	Start: 0
+	End: False
+Node: -
+	Neighbors: {'light': 1}
+	Start: 0
+	End: False
+Node: light
+	Neighbors: {'at': 2}
+	Start: 0
+	End: False
+Node: entry
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: It
+	Neighbors: {'has': 1}
+	Start: 1
+	End: False
+Node: composition
+	Neighbors: {'of': 1}
+	Start: 0
+	End: False
+Node: primarily
+	Neighbors: {'nitrogen': 1}
+	Start: 0
+	End: False
+Node: nitrogen
+	Neighbors: {'and': 2}
+	Start: 0
+	End: False
+Node: oxygen
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: Water
+	Neighbors: {'vapor': 1}
+	Start: 1
+	End: False
+Node: vapor
+	Neighbors: {'is': 3}
+	Start: 0
+	End: False
+Node: widely
+	Neighbors: {'present': 1}
+	Start: 0
+	End: False
+Node: present
+	Neighbors: {'in': 1}
+	Start: 0
+	End: False
+Node: forming
+	Neighbors: {'clouds': 1}
+	Start: 0
+	End: False
+Node: clouds
+	Neighbors: {'that': 1}
+	Start: 0
+	End: False
+Node: cover
+	Neighbors: {'most': 1}
+	Start: 0
+	End: False
+Node: acts
+	Neighbors: {'as': 1}
+	Start: 0
+	End: False
+Node: as
+	Neighbors: {'a': 4}
+	Start: 0
+	End: False
+Node: greenhouse
+	Neighbors: {'gas': 2}
+	Start: 0
+	End: False
+Node: gas
+	Neighbors: {'and': 1}
+	Start: 0
+	End: False
+Node: together
+	Neighbors: {'with': 1}
+	Start: 0
+	End: False
+Node: with
+	Neighbors: {'other': 3}
+	Start: 0
+	End: False
+Node: other
+	Neighbors: {'greenhouse': 1}
+	Start: 0
+	End: False
+Node: gases
+	Neighbors: {'in': 1}
+	Start: 0
+	End: False
+Node: particularly
+	Neighbors: {'carbon': 1}
+	Start: 0
+	End: False
+Node: carbon
+	Neighbors: {'dioxide': 1}
+	Start: 0
+	End: False
+Node: dioxide
+	Neighbors: {'(': 1}
+	Start: 0
+	End: False
+Node: (
+	Neighbors: {'CO2': 3}
+	Start: 0
+	End: False
+Node: CO2
+	Neighbors: {')': 1}
+	Start: 0
+	End: False
+Node: )
+	Neighbors: {',': 3}
+	Start: 0
+	End: False
+Node: creates
+	Neighbors: {'the': 1}
+	Start: 0
+	End: False
+Node: for
+	Neighbors: {'both': 1}
+	Start: 0
+	End: False
+Node: both
+	Neighbors: {'liquid': 1}
+	Start: 0
+	End: False
+Node: persist
+	Neighbors: {'via': 1}
+	Start: 0
+	End: False
+Node: via
+	Neighbors: {'the': 1}
+	Start: 0
+	End: False
+Node: capturing
+	Neighbors: {'of': 1}
+	Start: 0
+	End: False
+Node: energy
+	Neighbors: {'from': 2}
+	Start: 0
+	End: False
+Node: process
+	Neighbors: {'maintains': 1}
+	Start: 0
+	End: False
+Node: maintains
+	Neighbors: {'the': 1}
+	Start: 0
+	End: False
+Node: current
+	Neighbors: {'average': 1}
+	Start: 0
+	End: False
+Node: average
+	Neighbors: {'surface': 1}
+	Start: 0
+	End: False
+Node: temperature
+	Neighbors: {'of': 1}
+	Start: 0
+	End: False
+Node: 14
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: 76
+	Neighbors: {'°': 1}
+	Start: 1
+	End: False
+Node: °
+	Neighbors: {'C': 2}
+	Start: 0
+	End: False
+Node: C
+	Neighbors: {'(': 1}
+	Start: 0
+	End: False
+Node: 58
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: 57
+	Neighbors: {'°': 1}
+	Start: 1
+	End: False
+Node: F
+	Neighbors: {')': 1}
+	Start: 0
+	End: False
+Node: under
+	Neighbors: {'normal': 1}
+	Start: 0
+	End: False
+Node: normal
+	Neighbors: {'atmospheric': 1}
+	Start: 0
+	End: False
+Node: pressure
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Node: Differences
+	Neighbors: {'in': 1}
+	Start: 1
+	End: False
+Node: amount
+	Neighbors: {'of': 1}
+	Start: 0
+	End: False
+Node: captured
+	Neighbors: {'energy': 1}
+	Start: 0
+	End: False
+Node: between
+	Neighbors: {'geographic': 1}
+	Start: 0
+	End: False
+Node: geographic
+	Neighbors: {'regions': 1}
+	Start: 0
+	End: False
+Node: regions
+	Neighbors: {'(': 3}
+	Start: 0
+	End: False
+Node: equatorial
+	Neighbors: {'region': 1}
+	Start: 0
+	End: False
+Node: region
+	Neighbors: {'receiving': 1}
+	Start: 0
+	End: False
+Node: receiving
+	Neighbors: {'more': 1}
+	Start: 0
+	End: False
+Node: sunlight
+	Neighbors: {'than': 1}
+	Start: 0
+	End: False
+Node: drive
+	Neighbors: {'atmospheric': 1}
+	Start: 0
+	End: False
+Node: currents
+	Neighbors: {',': 1}
+	Start: 0
+	End: False
+Node: producing
+	Neighbors: {'a': 1}
+	Start: 0
+	End: False
+Node: climate
+	Neighbors: {'system': 2}
+	Start: 0
+	End: False
+Node: system
+	Neighbors: {'with': 1}
+	Start: 0
+	End: False
+Node: different
+	Neighbors: {'climate': 1}
+	Start: 0
+	End: False
+Node: range
+	Neighbors: {'of': 1}
+	Start: 0
+	End: False
+Node: weather
+	Neighbors: {'phenomena': 1}
+	Start: 0
+	End: False
+Node: phenomena
+	Neighbors: {'such': 1}
+	Start: 0
+	End: False
+Node: such
+	Neighbors: {'as': 2}
+	Start: 0
+	End: False
+Node: precipitation
+	Neighbors: {',': 1}
+	Start: 0
+	End: False
+Node: allowing
+	Neighbors: {'components': 1}
+	Start: 0
+	End: False
+Node: components
+	Neighbors: {'such': 1}
+	Start: 0
+	End: False
+Node: cycle
+	Neighbors: {'.': 1}
+	Start: 0
+	End: False
+Starting Words Calculated
+	Length: 12
+
+
+Dumping Starting Words:
+Word: Earth
+	Count: 4
+Word: This
+	Count: 2
+Word: Almost
+	Count: 1
+Word: 8
+	Count: 1
+Word: The
+	Count: 2
+Word: 2
+	Count: 1
+Word: Most
+	Count: 1
+Word: It
+	Count: 1
+Word: Water
+	Count: 1
+Word: 76
+	Count: 1
+Word: 57
+	Count: 1
+Word: Differences
+	Count: 1
+
+
+Creating output file
+
+
+Creating most appeared statement
+	Starting word: Earth
+	Current Statement: ['Earth']
+	Inside While
+	Next Word: is
+	Current Statement: ['Earth', 'is']
+	Inside While
+	Next Word: the
+	Current Statement: ['Earth', 'is', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Randomly selecting next word
+	Next Word: Earth
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: has
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has']
+	Inside While
+	Next Word: a
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a']
+	Inside While
+	Next Word: dynamic
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic']
+	Inside While
+	Randomly selecting next word
+	Next Word: atmosphere
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere']
+	Inside While
+	Randomly selecting next word
+	Next Word: ,
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',']
+	Inside While
+	Randomly selecting next word
+	Next Word: which
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which']
+	Inside While
+	Randomly selecting next word
+	Next Word: is
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is']
+	Inside While
+	Next Word: widely
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely']
+	Inside While
+	Next Word: present
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present']
+	Inside While
+	Next Word: in
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in']
+	Inside While
+	Randomly selecting next word
+	Next Word: the
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: most
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most']
+	Inside While
+	Next Word: of
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of']
+	Inside While
+	Next Word: primarily
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily']
+	Inside While
+	Next Word: nitrogen
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen']
+	Inside While
+	Next Word: and
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and']
+	Inside While
+	Next Word: protects
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects']
+	Inside While
+	Next Word: it
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it']
+	Inside While
+	Randomly selecting next word
+	Next Word: from
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from']
+	Inside While
+	Randomly selecting next word
+	Next Word: most
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most']
+	Inside While
+	Next Word: meteoroids
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids']
+	Inside While
+	Randomly selecting next word
+	Next Word: and
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and']
+	Inside While
+	Randomly selecting next word
+	Next Word: protects
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects']
+	Inside While
+	Randomly selecting next word
+	Next Word: it
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it']
+	Inside While
+	Randomly selecting next word
+	Next Word: from
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from']
+	Inside While
+	Randomly selecting next word
+	Next Word: most
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most']
+	Inside While
+	Randomly selecting next word
+	Next Word: of
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of']
+	Inside While
+	Randomly selecting next word
+	Next Word: primarily
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily']
+	Inside While
+	Randomly selecting next word
+	Next Word: nitrogen
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen']
+	Inside While
+	Randomly selecting next word
+	Next Word: and
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and']
+	Inside While
+	Randomly selecting next word
+	Next Word: protects
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects']
+	Inside While
+	Randomly selecting next word
+	Next Word: it
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it']
+	Inside While
+	Randomly selecting next word
+	Next Word: from
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from']
+	Inside While
+	Randomly selecting next word
+	Next Word: most
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most']
+	Inside While
+	Randomly selecting next word
+	Next Word: of
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of']
+	Inside While
+	Randomly selecting next word
+	Next Word: Earth
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth']
+	Inside While
+	Randomly selecting next word
+	Next Word: is
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is']
+	Inside While
+	Randomly selecting next word
+	Next Word: widely
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely']
+	Inside While
+	Randomly selecting next word
+	Next Word: present
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present']
+	Inside While
+	Randomly selecting next word
+	Next Word: in
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in']
+	Inside While
+	Randomly selecting next word
+	Next Word: the
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the']
+	Inside While
+	Randomly selecting next word
+	Next Word: atmosphere
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere']
+	Inside While
+	Randomly selecting next word
+	Next Word: ,
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',']
+	Inside While
+	Randomly selecting next word
+	Next Word: which
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Randomly selecting next word
+	Next Word: is
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is']
+	Inside While
+	Randomly selecting next word
+	Next Word: the
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'the']
+	Inside While
+	Randomly selecting next word
+	Next Word: third
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'third']
+	Inside While
+	Randomly selecting next word
+	Next Word: planet
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'third', 'planet']
+	Inside While
+	Next Word: .
+	Current Statement: ['Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'third', 'planet', '.']
+
+Perplexity Score: 47.38623046875
+
+Most Appeared Statement Process Completed
+
+
+Creating Random statement
+	Starting word: This
+	Current Statement: ['This']
+	Inside While
+	Next Word: is
+	Current Statement: ['This', 'is']
+	Inside While
+	Next Word: widely
+	Current Statement: ['This', 'is', 'widely']
+	Inside While
+	Next Word: present
+	Current Statement: ['This', 'is', 'widely', 'present']
+	Inside While
+	Next Word: in
+	Current Statement: ['This', 'is', 'widely', 'present', 'in']
+	Inside While
+	Next Word: the
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: is
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is']
+	Inside While
+	Next Word: widely
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely']
+	Inside While
+	Next Word: present
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present']
+	Inside While
+	Next Word: in
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in']
+	Inside While
+	Next Word: the
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: has
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has']
+	Inside While
+	Next Word: a
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a']
+	Inside While
+	Next Word: dynamic
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',']
+	Inside While
+	Next Word: the
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: the
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: most
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most']
+	Inside While
+	Next Word: meteoroids
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids']
+	Inside While
+	Next Word: and
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and']
+	Inside While
+	Next Word: the
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: the
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'atmosphere', ',', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'atmosphere', ',', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'atmosphere', ',', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: the
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet']
+	Inside While
+	Next Word: .
+	Current Statement: ['This', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet', '.']
+
+Perplexity Score: 36.398677825927734
+
+
+Creating Random statement
+	Starting word: Earth
+	Current Statement: ['Earth']
+	Inside While
+	Next Word: has
+	Current Statement: ['Earth', 'has']
+	Inside While
+	Next Word: a
+	Current Statement: ['Earth', 'has', 'a']
+	Inside While
+	Next Word: dynamic
+	Current Statement: ['Earth', 'has', 'a', 'dynamic']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: has
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has']
+	Inside While
+	Next Word: a
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a']
+	Inside While
+	Next Word: dynamic
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: is
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is']
+	Inside While
+	Next Word: widely
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely']
+	Inside While
+	Next Word: present
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present']
+	Inside While
+	Next Word: in
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in']
+	Inside While
+	Next Word: the
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: the
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'the', 'third', 'planet']
+	Inside While
+	Next Word: .
+	Current Statement: ['Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'the', 'third', 'planet', '.']
+
+Perplexity Score: 39.195526123046875
+
+
+Creating Random statement
+	Starting word: 2
+	Current Statement: ['2']
+	Inside While
+	Next Word: %
+	Current Statement: ['2', '%']
+	Inside While
+	Next Word: of
+	Current Statement: ['2', '%', 'of']
+	Inside While
+	Next Word: primarily
+	Current Statement: ['2', '%', 'of', 'primarily']
+	Inside While
+	Next Word: nitrogen
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen']
+	Inside While
+	Next Word: and
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and']
+	Inside While
+	Next Word: protects
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects']
+	Inside While
+	Next Word: it
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it']
+	Inside While
+	Next Word: from
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from']
+	Inside While
+	Next Word: most
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most']
+	Inside While
+	Next Word: meteoroids
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids']
+	Inside While
+	Next Word: and
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and']
+	Inside While
+	Next Word: protects
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects']
+	Inside While
+	Next Word: it
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it']
+	Inside While
+	Next Word: from
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from']
+	Inside While
+	Next Word: most
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most']
+	Inside While
+	Next Word: meteoroids
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids']
+	Inside While
+	Next Word: and
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and']
+	Inside While
+	Next Word: protects
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects']
+	Inside While
+	Next Word: it
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it']
+	Inside While
+	Next Word: from
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from']
+	Inside While
+	Next Word: most
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most']
+	Inside While
+	Next Word: of
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth']
+	Inside While
+	Next Word: is
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is']
+	Inside While
+	Next Word: widely
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely']
+	Inside While
+	Next Word: present
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present']
+	Inside While
+	Next Word: in
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in']
+	Inside While
+	Next Word: the
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: is
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is']
+	Inside While
+	Next Word: widely
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely']
+	Inside While
+	Next Word: present
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present']
+	Inside While
+	Next Word: in
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in']
+	Inside While
+	Next Word: the
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: most
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most']
+	Inside While
+	Next Word: meteoroids
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids']
+	Inside While
+	Next Word: and
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and']
+	Inside While
+	Next Word: protects
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects']
+	Inside While
+	Next Word: it
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it']
+	Inside While
+	Next Word: from
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from']
+	Inside While
+	Next Word: the
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: most
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most']
+	Inside While
+	Next Word: meteoroids
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids']
+	Inside While
+	Next Word: and
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and']
+	Inside While
+	Next Word: the
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: the
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: the
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: has
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has']
+	Inside While
+	Next Word: a
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a']
+	Inside While
+	Next Word: liquid
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid']
+	Inside While
+	Next Word: surface
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface']
+	Inside While
+	Next Word: conditions
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions']
+	Inside While
+	Next Word: and
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and']
+	Inside While
+	Next Word: protects
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects']
+	Inside While
+	Next Word: it
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it']
+	Inside While
+	Next Word: from
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from']
+	Inside While
+	Next Word: the
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: has
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has']
+	Inside While
+	Next Word: a
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a']
+	Inside While
+	Next Word: dynamic
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',']
+	Inside While
+	Next Word: the
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: the
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: the
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: has
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has']
+	Inside While
+	Next Word: a
+	Current Statement: ['2', '%', 'of', 'primarily', 'nitrogen', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'most', 'of', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'protects', 'it', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a']
+	Statement length exceeded the given limit (limit: 100)
+
+Perplexity Score: 19.41384506225586
+
+
+Creating Random statement
+	Starting word: The
+	Current Statement: ['The']
+	Inside While
+	Next Word: water
+	Current Statement: ['The', 'water']
+	Inside While
+	Next Word: vapor
+	Current Statement: ['The', 'water', 'vapor']
+	Inside While
+	Next Word: is
+	Current Statement: ['The', 'water', 'vapor', 'is']
+	Inside While
+	Next Word: the
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: is
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is']
+	Inside While
+	Next Word: widely
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely']
+	Inside While
+	Next Word: present
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present']
+	Inside While
+	Next Word: in
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in']
+	Inside While
+	Next Word: the
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet']
+	Inside While
+	Next Word: .
+	Current Statement: ['The', 'water', 'vapor', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', '.']
+
+Perplexity Score: 175.94210815429688
+
+
+Creating Random statement
+	Starting word: Water
+	Current Statement: ['Water']
+	Inside While
+	Next Word: vapor
+	Current Statement: ['Water', 'vapor']
+	Inside While
+	Next Word: is
+	Current Statement: ['Water', 'vapor', 'is']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: most
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most']
+	Inside While
+	Next Word: meteoroids
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids']
+	Inside While
+	Next Word: and
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: most
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most']
+	Inside While
+	Next Word: of
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of']
+	Inside While
+	Next Word: primarily
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily']
+	Inside While
+	Next Word: nitrogen
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen']
+	Inside While
+	Next Word: and
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: has
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has']
+	Inside While
+	Next Word: a
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a']
+	Inside While
+	Next Word: dynamic
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: has
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has']
+	Inside While
+	Next Word: a
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a']
+	Inside While
+	Next Word: liquid
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid']
+	Inside While
+	Next Word: surface
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface']
+	Inside While
+	Next Word: conditions
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions']
+	Inside While
+	Next Word: and
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: is
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: is
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: is
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is']
+	Inside While
+	Next Word: widely
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely']
+	Inside While
+	Next Word: present
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present']
+	Inside While
+	Next Word: in
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: which
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which']
+	Inside While
+	Next Word: sustains
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains']
+	Inside While
+	Next Word: Earth
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth']
+	Inside While
+	Next Word: is
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is']
+	Inside While
+	Next Word: widely
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely']
+	Inside While
+	Next Word: present
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present']
+	Inside While
+	Next Word: in
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere']
+	Inside While
+	Next Word: ,
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the']
+	Inside While
+	Next Word: third
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third']
+	Inside While
+	Next Word: planet
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet']
+	Inside While
+	Next Word: from
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet', 'from']
+	Inside While
+	Next Word: most
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet', 'from', 'most']
+	Inside While
+	Next Word: meteoroids
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids']
+	Inside While
+	Next Word: and
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and']
+	Inside While
+	Next Word: protects
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects']
+	Inside While
+	Next Word: it
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it']
+	Inside While
+	Next Word: from
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from']
+	Inside While
+	Next Word: the
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the']
+	Inside While
+	Next Word: atmosphere
+	Current Statement: ['Water', 'vapor', 'is', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'the', 'third', 'planet', 'from', 'most', 'of', 'primarily', 'nitrogen', 'and', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'dynamic', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'has', 'a', 'liquid', 'surface', 'conditions', 'and', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'which', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'atmosphere', ',', 'which', 'sustains', 'Earth', 'is', 'widely', 'present', 'in', 'the', 'third', 'planet', 'from', 'the', 'atmosphere', ',', 'the', 'atmosphere', ',', 'the', 'third', 'planet', 'from', 'the', 'third', 'planet', 'from', 'most', 'meteoroids', 'and', 'protects', 'it', 'from', 'the', 'atmosphere']
+	Statement length exceeded the given limit (limit: 100)
+
+Perplexity Score: 18.185758590698242
+
+Random Statement Process Completed
+
+
+Creating analysis file
+
+Analysis File Created

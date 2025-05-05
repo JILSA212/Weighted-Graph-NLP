@@ -1,0 +1,9 @@
+Input Size: 107
+Max Perplexity: 4224.6953125
+Min Perplexity: 1.6128807067871094
+Average Perplexity: 846.2609076976776
+Perplexity Standard Deviation: 1888.6022468026817
+Perplexity Median: 1.6654484272003174
+Perplexity Mode: 0    1.665448
+dtype: float64
+Perplexity List: [1.6128807067871094, 1.6654484272003174, 4224.6953125, 1.6654484272003174, 1.6654484272003174]

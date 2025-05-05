@@ -1,4 +1,0 @@
-Input Size: 452
-Max Perplexity: 1941.0528564453125
-Min Perplexity: 361.7875061035156
-Average Perplexity: 989.3028259277344

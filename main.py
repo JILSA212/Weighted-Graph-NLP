@@ -7,11 +7,12 @@ import analyze
 # input = "This is the input statement. And everything here works fine. Do you have any question? If so, please don't ask."
 
 datetime_name = str(str(datetime.datetime.now()).replace(":", "_").replace(" ", "_"))
-os.path.isdir('Result\\' + datetime_name) or os.makedirs('Result\\' + datetime_name)
+if(not os.path.isdir('Result\\' + datetime_name)):
+    os.makedirs('Result\\' + datetime_name)
 
 log_file = open('Result\\' + datetime_name + '\\log' + datetime_name + '.txt', 'w')
 
-with open('input.txt', 'r', encoding="utf8") as file:
+with open('./input/input_test.txt', 'r', encoding="utf8") as file:
     for input in file:
         result = graph.process_data(input, log_file)
 graph.dump_graph(log_file)
